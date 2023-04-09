@@ -1,0 +1,5 @@
+            Получение по индексу     Удаление по индексу    Удаление элемента       Вставка элемента
+ArrayList           O(1)                    O(1)                O(n)                    O(n)
+LinkedList          O(n)                    O(n)                O(n)                    O(n)
+HashSet             O(n)                    O(n)                O(n)                    O(n)
+TreeSet             O(n)                    O(n)                O(n)                    O(n)
